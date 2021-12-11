@@ -1,0 +1,5 @@
+# IMDB-Sentiment-Classifier-Python
+
+This is a binary sentiment classifier for the IMDB movie dataset.  IMDB dataset has 50K samples of reviews with labels of either positive or negative sentiments.  The dataset is then pre-processed and trained with traditional machine learning and neural net deep learning algorithms, and results are analysed and compared with each other.  The code is written in Python and executed on Jupyter Notebook.
+All three traditional machine learning algorithms of Naïve Bayes, Logistics Regression and SVM perform well with Accuracy, Precision and Recall at around 0.9.  For deep learning, a CNN architecture is used with about 500,000 trainable parameters. Best results reached at 2 epochs with Accuracy, Precision and Recall at 0.86. 
+CNN architecture took longer to run and did not give improved results for this IMDB dataset. The neural network design can be further tweaked, using other types of layers, changing dropout, more complex designs like LSTM. However, given the small dataset size of 50K samples, any improvement is likely limited.  Neural networks should work better for much larger dataset. 
