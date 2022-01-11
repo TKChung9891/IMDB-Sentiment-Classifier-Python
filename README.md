@@ -6,6 +6,10 @@ All three traditional machine learning algorithms of Naïve Bayes, Logistics Reg
 
 CNN architecture took longer to run and did not give improved results for this IMDB dataset. The neural network design can be further tweaked, using other types of layers, changing dropout, more complex designs like LSTM. However, given the small dataset size of 50K samples, any improvement is likely limited.  Neural networks should work better for much larger dataset. 
 
+Watch the explanation and demo video:
+https://youtu.be/RuEh5dlvPD4
+
+![image](https://user-images.githubusercontent.com/88481617/148930016-2c89c365-89b2-4a7e-8acd-6d6844aa2ae0.png)
 ![image](https://user-images.githubusercontent.com/88481617/145678804-698eb4aa-a938-4b57-9ffd-df6737ecabb7.png)
 ![image](https://user-images.githubusercontent.com/88481617/145678812-fd824589-53c8-4053-b843-06aaf69b89d6.png)
 ![image](https://user-images.githubusercontent.com/88481617/145678823-f26a3624-db10-455b-be6d-90232a3aa802.png)
